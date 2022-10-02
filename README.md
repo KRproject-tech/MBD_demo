@@ -5,6 +5,8 @@ Closed-loop Pendulum demo by 3D Multi-Body Dynamics
 
 The Closed-loop Pendulum demo which is modeled by Quaternion based Multi-Body Dynamics.
 
+The following dynamics for multi-bodies are solved.
+
 $$
 \left[
 \begin{array}{cccc}
@@ -25,7 +27,7 @@ $$
 =\left[
 \begin{array}{c}
 {\bf F}_G\\
-8d_T {\bf L}^T_G {\bf J}'_G d_T {\bf L} {\bf \varepsilon} + 2 {\bf L}^T_G {\bf n}'_G \\
+8d_T {\bf L}^T_G {\bf J}'_G d_T {\bf L}_G {\bf \varepsilon} + 2 {\bf L}^T_G {\bf n}'_G \\
 {\bf \gamma}\\
 {\bf \gamma}_E\\
 \end{array}

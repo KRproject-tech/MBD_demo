@@ -3,6 +3,7 @@ Multi-Body Dynamics Closed-loop Pendulum demo
 
 ## Overview
 
+The Closed-loop Pendulum demo which is modeled by Quaternion based Multi-Body Dynamics.
 
 
 ## Preparation before analysis
@@ -36,4 +37,12 @@ Push the “plot” button.
 
 
 ## Image
+
+
+## Movie
+
+https://user-images.githubusercontent.com/114337358/193452979-66b5f130-e993-44fa-aaef-a5bad153d087.mp4
+
+
+
 

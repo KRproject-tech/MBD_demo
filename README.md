@@ -22,7 +22,16 @@ $$
 {\bf \lambda}_E\\
 \end{array}
 \right]
+=\left[
+\begin{array}{c}
+{\bf F}_G\\
+8d_T {\bf L}^T_G {\bf J}'_G d_T {\bf L} {\bf \varepsilon} + 2 {\bf L}^T_G {\bf n}'_G \\
+{\bf \gamma}\\
+{\bf \gamma}_E\\
+\end{array}
+\right]
 $$
+
 
 ## Preparation before analysis
 __[Step 1] Install the ToolBoxes__

@@ -37,13 +37,13 @@ $$
 where 
 
 $$
-{\bf C} = {\bf 0},
+{\bf C} ({\bf r_G}, {\bf \varepsilon}) = {\bf 0},
 $$
 
 is the geometrical constraint condition, and
 
 $$
-{\bf C}_E := 
+{\bf C}_E ({\bf \varepsilon}) := 
 \left[
 \begin{array}{c}
 {\bf \varepsilon}^T_1 {\bf \varepsilon}_1 - 1  \\

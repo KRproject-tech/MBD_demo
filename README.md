@@ -52,6 +52,6 @@ Error of constraint conditions
 
 https://user-images.githubusercontent.com/114337358/193452979-66b5f130-e993-44fa-aaef-a5bad153d087.mp4
 
-Choatic behevior is generated because the masses of the left and right rigid bodies are different.
+Chaotic behevior is generated because the masses of the left and right rigid bodies are different.
 
 

@@ -38,6 +38,15 @@ Push the “plot” button.
 
 ## Image
 
+![untitled](https://user-images.githubusercontent.com/114337358/193453166-5903c283-3747-4d03-8900-fad1f063cee9.png)
+
+Time series of energy (conserved)
+
+
+![untitled](https://user-images.githubusercontent.com/114337358/193453224-2cabca2d-5edd-4cf3-bd9b-feab50875158.png)
+
+Error of constraint conditions
+
 
 ## Movie
 

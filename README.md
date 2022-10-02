@@ -5,6 +5,24 @@ Closed-loop Pendulum demo by 3D Multi-Body Dynamics
 
 The Closed-loop Pendulum demo which is modeled by Quaternion based Multi-Body Dynamics.
 
+$$
+\left[
+\begin{array}{cccc}
+{\bf M}_G                       &  {\bf 0}                             & \partial_{{\bf r}_G} {\bf C}^T          & {\bf 0}                                \\
+{\bf 0}                         &  4{\bf L}^T_G                        & \partial_{\bf \varepsilon} {\bf C}^T    & \partial_{\bf \varepsilon} {\bf C}_E^T \\
+\partial_{{\bf r}_G} {\bf C}    & \partial_{\bf \varepsilon} {\bf C}   & {\bf 0}                                 & {\bf 0}                                \\
+{\bf 0}                         & \partial_{\bf \varepsilon} {\bf C}_E & {\bf 0}                                 & {\bf 0}                                \\
+\end{array}
+\right]
+\left[
+\begin{array}{c}
+\ddot{\bf r}_G\\
+\ddot{\bf \varepsilon}\\
+{\bf \lambda}\\
+{\bf \lambda}_E\\
+\end{array}
+\right]
+$$
 
 ## Preparation before analysis
 __[Step 1] Install the ToolBoxes__

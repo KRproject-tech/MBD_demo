@@ -37,13 +37,20 @@ $$
 where 
 
 $$
-{\bf C} = {\bf 0}
+{\bf C} = {\bf 0},
 $$
 
 is the geometrical constraint condition, and
 
 $$
-{\bf C}_E = {\bf 0}
+{\bf C}_E := 
+\left[
+\begin{array}{c}
+{\bf \varepsilon}^T_1 {\bf \varepsilon}_1 - 1  \\
+\vdots \\
+{\bf \varepsilon}^T_N {\bf \varepsilon}_N - 1  \\
+\end{array}
+\right] = {\bf 0},
 $$
 
 is constraint condition for Euler parameter.

@@ -31,8 +31,23 @@ $$
 {\bf \gamma}\\
 {\bf \gamma}_E\\
 \end{array}
-\right]
+\right],
 $$
+
+where 
+
+$$
+{\bf C} = {\bf 0}
+$$
+
+is the geometrical constraint condition, and
+
+$$
+{\bf C}_E = {\bf 0}
+$$
+
+is constraint condition for Euler parameter.
+
 
 
 ## Preparation before analysis

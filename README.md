@@ -1,5 +1,5 @@
 # MBD_demo
-Multi-Body Dynamics Closed-loop Pendulum demo
+Closed-loop Pendulum demo by 3D Multi-Body Dynamics 
 
 ## Overview
 

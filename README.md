@@ -109,4 +109,4 @@ Chaotic behevior is generated because the masses of the left and right rigid bod
 
 [1] J. Baumgarte，“Stabilization of Constraints and Integrals of Motion in Dynamical Systems”，Computer Methods in Applied Mechanics and Engineering，pp.1–16，1972.
 
-[2] 
+[2] 日本機械学会編，マルチボディダイナミクス〈1〉基礎理論，コロナ社．

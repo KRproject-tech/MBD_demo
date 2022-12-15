@@ -5,7 +5,7 @@ Closed-loop Pendulum smaple code by 3D Multi-Body Dynamics
 
 The Closed-loop Pendulum demo which is modeled by Quaternion based Multi-Body Dynamics.
 
-The following dynamics for multi-bodies are solved.
+The following dynamics for multi-bodies are solved [^2].
 
 $$
 \left[
@@ -55,7 +55,7 @@ $$
 
 is constraint condition for Euler parameter.
 
-Baumgarte constraint stabilization method [1] is employed to above Differential-algebraic system of equations (DAE).
+Baumgarte constraint stabilization method [^1] is employed to above Differential-algebraic system of equations (DAE).
 
 ## Preparation before analysis
 __[Step 1] Install the ToolBoxes__
@@ -105,8 +105,7 @@ https://user-images.githubusercontent.com/114337358/193452979-66b5f130-e993-44fa
 
 Chaotic behevior is generated because the masses of the left and right rigid bodies are different.
 
-## References
+### References
+[^1]: J. Baumgarte，“Stabilization of Constraints and Integrals of Motion in Dynamical Systems”，Computer Methods in Applied Mechanics and Engineering，pp.1–16，1972.
 
-[1] J. Baumgarte，“Stabilization of Constraints and Integrals of Motion in Dynamical Systems”，Computer Methods in Applied Mechanics and Engineering，pp.1–16，1972.
-
-[2] 日本機械学会編，マルチボディダイナミクス〈1〉基礎理論，コロナ社．
+[^2]: 日本機械学会編，マルチボディダイナミクス〈1〉基礎理論，コロナ社．

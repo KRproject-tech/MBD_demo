@@ -13,7 +13,7 @@ $$
 \left[
 \begin{array}{cccc}
 {\bf M_G}                       &  {\bf 0}                             & \partial_{{\bf r_G}} {\bf C}^T          & {\bf 0}                                \\
-{\bf 0}                         &  4{\bf L}^T_G                        & \partial_{\bf \varepsilon} {\bf C}^T    & \partial_{\bf \varepsilon} {\bf C}^T_E \\
+{\bf 0}                         &  4{\bf L}^T_G {\bf J}'_G {\bf L}_G   & \partial_{\bf \varepsilon} {\bf C}^T    & \partial_{\bf \varepsilon} {\bf C}^T_E \\
 \partial_{{\bf r_G}} {\bf C}    & \partial_{\bf \varepsilon} {\bf C}   & {\bf 0}                                 & {\bf 0}                                \\
 {\bf 0}                         & \partial_{\bf \varepsilon} {\bf C}_E & {\bf 0}                                 & {\bf 0}                                \\
 \end{array}

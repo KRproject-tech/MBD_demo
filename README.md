@@ -1,6 +1,14 @@
 ![図1](https://user-images.githubusercontent.com/114337358/220136197-51255e96-66a8-4526-bcf6-f5539878bc44.png)
 
 # <p align=center>MBD_demo</p>
+
+**Communication**
+
+<a style="text-decoration: none" href="https://twitter.com/hogelungfish" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%40hogelungfish-1da1f2.svg" alt="Twitter">
+</a>
+<p>
+
 __Closed-loop Pendulum smaple code by 3D Multi-Body Dynamics__ 
 
 ## Overview

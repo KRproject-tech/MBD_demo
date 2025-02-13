@@ -80,7 +80,7 @@ Baumgarte constraint stabilization method [^1] is employed to above Differential
 
 ## Preparation before analysis
 
-<details><summary><b>Show Publications</b></summary>
+<details><summary><b>Show procedures</b></summary>
 
 __[Step 1] Install the ToolBoxes__
 

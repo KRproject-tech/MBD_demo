@@ -79,6 +79,9 @@ is constraint condition for Euler parameter.
 Baumgarte constraint stabilization method [^1] is employed to above Differential-algebraic system of equations (DAE).
 
 ## Preparation before analysis
+
+<details><summary><b>Show Publications</b></summary>
+
 __[Step 1] Install the ToolBoxes__
 
 The following ToolBoxes in “./ ToolBoxes/” are required,
@@ -106,6 +109,9 @@ Push the “exe” button and wait until the finish of the analysis.
 __[Step 4] Plot results__
 
 Push the “plot” button.
+
+
+</details>
 
 
 ## Image
